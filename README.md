@@ -1,0 +1,2 @@
+# itspadger.github.io
+blog
